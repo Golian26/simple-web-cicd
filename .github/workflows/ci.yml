@@ -133,7 +133,7 @@ jobs:
 
             echo ""
             echo "=== 运行状态 ==="
-            docker compose ps
+             docker-compose ps
 
   # ============================================
   # Job 4: 通知
