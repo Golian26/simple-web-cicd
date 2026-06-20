@@ -8,8 +8,8 @@ def index():
         "version":"Flask App v1.0",
         "python":"Python 3.12.13",
         "status":"服务运行正常",
-        "name":"王俪融",
-        "studentId":"2440664350",
+        "name":"张蕴仪",
+        "studentId":"2440664338",
         "update_time":time.strftime("%Y-%m-%d %H:%M:%S"),
         "env":"Development"
     }
