@@ -1,6 +1,7 @@
 services:
   web:
     image: simple-web:latest
+    command: python app.py --host=0.0.0.0
     ports:
-      - "80:8080"
+      - "5000:5000"
     restart: unless-stopped
